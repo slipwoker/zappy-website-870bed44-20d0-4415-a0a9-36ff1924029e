@@ -7,21 +7,21 @@
 ## Pages
 
 ### בית
-https://peter-paltchik-870bed44.zappy5.app
+https://example.com
 A premium cinematic landing page for the biographical book of Peter Paltchik — Israeli Olympic judo medalist, European champion, and one of Israel&#39;s most decora
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://peter-paltchik-870bed44.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://peter-paltchik-870bed44.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://peter-paltchik-870bed44.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -50,6 +50,6 @@ publishing / sports biography
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://peter-paltchik-870bed44.zappy5.app/sitemap.xml
-- Robots: https://peter-paltchik-870bed44.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://peter-paltchik-870bed44.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

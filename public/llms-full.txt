@@ -2,13 +2,13 @@
 
 A premium cinematic landing page for the biographical book of Peter Paltchik — Israeli Olympic judo medalist, European champion, and one of Israel's most decorated athletes. The brand identity is deeply emotional and elite, blending the raw intensity of a champion's life story with the aesthetic of a Netflix sports documentary. The visual language draws from Nike athlete campaigns and luxury editorial design — dark, dramatic, and deeply human. The narrative centers on themes of faith above logic, mental resilience, childhood struggles, injuries, loneliness, Olympic pressure, and comeback moments, positioning the book not just for sports fans but for anyone who has ever had to keep going when others stopped believing.
 
-Source: https://peter-paltchik-870bed44.zappy5.app
+Source: https://example.com
 
 ---
 
 ## Peter Paltchik — Peter Paltchik
 
-URL: https://peter-paltchik-870bed44.zappy5.app
+URL: https://example.com
 Description: A premium cinematic landing page for the biographical book of Peter Paltchik — Israeli Olympic judo medalist, European champion, and one of Israel&#39;s most decora
 
 Peter Paltchik — Peter Paltchik
@@ -730,7 +730,7 @@ Peter Paltchik — Peter Paltchik
 
 ## מדיניות פרטיות
 
-URL: https://peter-paltchik-870bed44.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -960,7 +960,7 @@ Peter Paltchik ("החברה", "אנו", "שלנו") מחויבת להגן על �
 
 ## הצהרת נגישות
 
-URL: https://peter-paltchik-870bed44.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1199,7 +1199,7 @@ Peter Paltchik מחויבת להנגיש את השירותים לכלל הציב
 
 ## תנאי שימוש
 
-URL: https://peter-paltchik-870bed44.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
