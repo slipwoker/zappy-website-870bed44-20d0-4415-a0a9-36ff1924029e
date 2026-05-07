@@ -1,0 +1,55 @@
+# Peter Paltchik — Generative Engine Optimization Map
+
+> A premium cinematic landing page for the biographical book of Peter Paltchik — Israeli Olympic judo medalist, European champion, and one of Israel's most decorated athletes. The brand identity is deeply emotional and elite, blending the raw intensity of a champion's life story with the aesthetic of a Netflix sports documentary. The visual language draws from Nike athlete campaigns and luxury editorial design — dark, dramatic, and deeply human. The narrative centers on themes of faith above logic, mental resilience, childhood struggles, injuries, loneliness, Olympic pressure, and comeback moments, positioning the book not just for sports fans but for anyone who has ever had to keep going when others stopped believing.
+
+---
+
+## Pages
+
+### בית
+https://peter-paltchik-870bed44.zappy5.app
+A premium cinematic landing page for the biographical book of Peter Paltchik — Israeli Olympic judo medalist, European champion, and one of Israel&#39;s most decora
+
+## Legal & Policy
+
+### Privacy Policy
+https://peter-paltchik-870bed44.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://peter-paltchik-870bed44.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://peter-paltchik-870bed44.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Peter Paltchik
+A premium cinematic landing page for the biographical book of Peter Paltchik — Israeli Olympic judo medalist, European champion, and one of Israel's most decorated athletes. The brand identity is deeply emotional and elite, blending the raw intensity of a champion's life story with the aesthetic of a Netflix sports documentary. The visual language draws from Nike athlete campaigns and luxury editorial design — dark, dramatic, and deeply human. The narrative centers on themes of faith above logic, mental resilience, childhood struggles, injuries, loneliness, Olympic pressure, and comeback moments, positioning the book not just for sports fans but for anyone who has ever had to keep going when others stopped believing.
+
+## Target Audience
+- sports fans, entrepreneurs, soldiers, leaders, parents, teenagers, general public interested in resilience and identity
+- חובבי ספורט
+- מנהיגים שואפים
+- בני נוער המתעניינים בחוסן
+
+## Industry
+publishing / sports biography
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://peter-paltchik-870bed44.zappy5.app/sitemap.xml
+- Robots: https://peter-paltchik-870bed44.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://peter-paltchik-870bed44.zappy5.app/llms-full.txt
